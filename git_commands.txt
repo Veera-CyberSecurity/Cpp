@@ -1,0 +1,4 @@
+-> git clone <GitHub_repo_link> // to get source from gitHub
+-> git pull origin //to get the updated source from github
+-> git branch // to show the list of branches present in the project source
+->
