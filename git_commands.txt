@@ -8,3 +8,4 @@
 -> git log //to show the commit id's / commit msg's for the modified source code changes
 -> git show <commit_id> // to show modified file changes
 -> git diff <path_of_the_file/file_along_eith_path/file_name> // to show diff of the file before commit&push the changes
+This is all the Neccessary command's to handle git repository
