@@ -1,0 +1,48 @@
+	
+Topic	Details
+Cybersecurity basics	What is Cybersecurity & why it's needed
+CIA triad	What is use of CIA & Where it applicable
+threats, vulnerabilties, attacks	Types of vulnerabilities, threat, attacks, mitigations
+ISO 27001	Basic details of Information security standard.
+GDPR	Details of GDPR & it's applicablity
+Kali linux usage	What is kali linux, use, what difference compared to Ubuntu
+Kali linux Installtion	Installation procedure of Kali linux & it's procedure
+Networking 	Basics of Networking & Protocols ARP, DNS, DHCP, TCP, UDP, TLS etc...
+Cryptography	Details of Cryptography, alogrithms, hashing etc..
+Openssl	Complete details of Openssl, generation of keys, certificates etc...
+Wi-Fi	Explore Basic details of Wifi.
+Bluetooth	Basics of Bluetooth & it's Protocols.
+Penetration	Details of Penetration testing, phases
+Kali linux tools	DNS information gathering
+	Wi-Fi Cracking
+	Password cracking 
+	DHCP tools
+	MITM 
+	Exploitation
+	Forensic
+	Network tools
+IoT	complete details of IOT products and interfaces
+Microcontroller	Details of microcontroller & understanding of datasheet
+Communication protocols	brief details JTAG, SWD, I2C, SPI, UART, MQTT and its frame format, it's usage
+Owasp top 10 	Vulnerabilities of IoT OWASP top 10
+Basic hardware tools	How to use multimeter, connections etc..
+Hardware penetration testing	Component identifications
+	Pin identification
+	Basics of PCB tracing
+	Extraction firmware
+	Sniffing the communication
+	Accessing of logs
+	Bypass authentication mechanisms
+Network Penetration testing	Identification of devices on network
+	MITM 
+	Complete analysis of communication
+	Analysis of TLS, as per standards
+	Port Scanning
+	Vulnerability Scanning & Analysis
+	Flooding 
+	Certificate validation
+Bluetooth penetration testing	Bluetooth vulnerabilities & attacks
+	tools & bluetooth security mechanisms
+	Extraction & analyze Bluetooth packets.
+	How to read and write services and charactertics
+	Buetooth fuzzing
